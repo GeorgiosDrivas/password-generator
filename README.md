@@ -1,5 +1,4 @@
-Live preview of the project:
-https://password-gen-gd.netlify.app/
+Password Generator APP using reactJS
 
 
 # Getting Started with Create React App
